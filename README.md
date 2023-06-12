@@ -21,8 +21,13 @@
 - LinkedIn: [LinkedIn Profile URL](https://www.linkedin.com/in/sakshi-deshmukh-a418151a0)
 
 - Email: sakshi73d@gmail.com
-- 
+
+
+
+![zUR](https://github.com/SakshiiDeshmukh/SakshiiDeshmukh/assets/125859287/71dd90ce-5627-4d4c-93ad-70ffb6c0f55a)
+
+
+
 SakshiiDeshmukh/SakshiiDeshmukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://i.gifer.com/zUR.gif 
